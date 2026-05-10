@@ -5,5 +5,5 @@
 # alone (e.g. from the gemspec) does not lock the symbol into being a
 # module.
 class Rangeable
-  VERSION = '1.0.0'
+  VERSION = '2.0.0'
 end
