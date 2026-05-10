@@ -1,810 +1,3302 @@
 {
+  "schema_version": 2,
   "seed": 3235839725,
   "ops": [
     {
+      "op": "insert",
       "element": 2,
       "start": 29,
       "end": 38
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -14,
       "end": -5
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 29,
       "end": 35
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 2,
       "end": 8
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -15,
       "end": -12
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -12,
       "end": -3
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -18,
       "end": -3
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -19,
       "end": -4
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -1,
       "end": 9
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -13,
       "end": -8
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 6,
       "end": 12
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 20,
       "end": 28
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 18,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -20,
       "end": -18
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 16,
       "end": 24
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -13,
       "end": 2
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 8,
       "end": 15
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -4,
       "end": 1
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -16,
       "end": -1
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -20,
       "end": -12
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -17,
       "end": -11
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 28,
       "end": 30
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 23,
       "end": 27
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 10,
       "end": 24
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 27,
       "end": 28
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -24,
       "end": -23
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -17,
       "end": -9
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -30,
       "end": -22
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 1,
       "end": 8
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 18,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -4,
       "end": -4
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -30,
       "end": -24
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -28,
       "end": -14
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -7,
       "end": 7
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 4,
       "end": 18
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -25,
       "end": -21
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 16,
       "end": 22
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 11,
       "end": 11
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -29,
       "end": -14
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -5,
       "end": 3
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -28,
       "end": -20
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 27,
       "end": 35
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -27,
       "end": -19
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -25,
       "end": -24
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -13,
       "end": -4
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -14,
       "end": -13
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -16,
       "end": -10
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -19,
       "end": -8
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 1,
       "end": 9
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -4,
       "end": 6
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -6,
       "end": 0
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 18,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 11,
       "end": 14
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -11,
       "end": -11
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -7,
       "end": -1
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 29,
       "end": 39
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 30,
       "end": 32
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 9,
       "end": 9
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -20,
       "end": -10
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 28,
       "end": 29
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -30,
       "end": -21
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 5,
       "end": 11
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -16,
       "end": -3
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -6,
       "end": 3
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 20,
       "end": 30
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 3,
       "end": 17
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 13,
       "end": 21
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -4,
       "end": -3
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 19,
       "end": 33
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 1,
       "end": 1
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -29,
       "end": -21
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 8,
       "end": 18
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 19,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -20,
       "end": -5
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -27,
       "end": -18
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -10,
       "end": -5
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 12,
       "end": 17
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 6,
       "end": 17
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -14,
       "end": -5
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -21,
       "end": -13
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -10,
       "end": -6
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 21,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -23,
       "end": -19
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -6,
       "end": 9
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 4,
       "end": 17
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 29,
       "end": 34
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 14,
       "end": 20
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 28,
       "end": 29
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -7,
       "end": 0
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -21,
       "end": -14
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 22,
       "end": 26
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -17,
       "end": -12
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -12,
       "end": -4
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 11,
       "end": 21
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -15,
       "end": -1
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -24,
       "end": -12
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 24,
       "end": 34
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 16,
       "end": 22
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 4,
       "end": 15
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 7,
       "end": 21
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 15,
       "end": 27
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -5,
       "end": 3
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 10,
       "end": 11
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -9,
       "end": -6
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 7,
       "end": 10
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -6,
       "end": 2
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 27,
       "end": 34
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 10,
       "end": 15
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 21,
       "end": 36
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 27,
       "end": 30
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -8,
       "end": -8
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -29,
       "end": -26
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -18,
       "end": -5
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -6,
       "end": 3
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 29,
       "end": 42
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -23,
       "end": -12
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -4,
       "end": 4
     },
     {
+      "op": "insert",
       "element": 3,
       "start": -12,
       "end": 3
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 28,
       "end": 39
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 12,
       "end": 23
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -9,
       "end": -5
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 14,
       "end": 27
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 1,
       "end": 15
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -17,
       "end": -7
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -27,
       "end": -16
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -24,
       "end": -19
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -1,
       "end": 0
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 26,
       "end": 34
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 13,
       "end": 18
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 11,
       "end": 26
     },
     {
+      "op": "insert",
       "element": 4,
       "start": 30,
       "end": 30
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 0,
       "end": 8
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -28,
       "end": -22
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 15,
       "end": 20
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 4,
       "end": 12
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 14,
       "end": 19
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 22,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 21,
       "end": 32
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -24,
       "end": -24
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -29,
       "end": -27
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -7,
       "end": -6
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -21,
       "end": -14
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -4,
       "end": 4
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -29,
       "end": -17
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -29,
       "end": -16
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -27,
       "end": -12
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 24,
       "end": 36
     },
     {
+      "op": "insert",
       "element": 0,
       "start": -23,
       "end": -22
     },
     {
+      "op": "insert",
       "element": 2,
       "start": 17,
       "end": 30
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -26,
       "end": -24
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 19,
       "end": 22
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -25,
       "end": -11
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 12,
       "end": 25
     },
     {
+      "op": "insert",
       "element": 2,
       "start": -15,
       "end": -15
     },
     {
+      "op": "insert",
       "element": 3,
       "start": 0,
       "end": 9
     },
     {
+      "op": "insert",
       "element": 1,
       "start": 24,
       "end": 24
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -24,
       "end": -13
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -21,
       "end": -14
     },
     {
+      "op": "insert",
       "element": 1,
       "start": -8,
       "end": 7
     },
     {
+      "op": "insert",
       "element": 4,
       "start": -19,
       "end": -13
     },
     {
+      "op": "insert",
       "element": 0,
       "start": 100,
       "end": 4611686018427387903
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 74,
+      "end": 74
+    },
+    {
+      "op": "remove",
+      "element": 4,
+      "start": 37,
+      "end": 39
+    },
+    {
+      "op": "remove",
+      "element": 4,
+      "start": 45,
+      "end": 48
+    },
+    {
+      "op": "remove",
+      "element": 4,
+      "start": 49,
+      "end": 59
+    },
+    {
+      "op": "remove",
+      "element": 4,
+      "start": -25,
+      "end": -20
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": 37,
+      "end": 38
+    },
+    {
+      "op": "remove",
+      "element": 0,
+      "start": -16,
+      "end": -6
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 85,
+      "end": 85
+    },
+    {
+      "op": "remove",
+      "element": 0,
+      "start": -30,
+      "end": -27
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": 5,
+      "end": 8
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": -2,
+      "end": 5
+    },
+    {
+      "op": "remove",
+      "element": 4,
+      "start": -14,
+      "end": -6
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 46,
+      "end": 51
+    },
+    {
+      "op": "remove",
+      "element": 1,
+      "start": 36,
+      "end": 36
+    },
+    {
+      "op": "remove",
+      "element": 0,
+      "start": 73,
+      "end": 74
+    },
+    {
+      "op": "remove",
+      "element": 1,
+      "start": -40,
+      "end": -35
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": -32,
+      "end": -29
+    },
+    {
+      "op": "remove",
+      "element": 1,
+      "start": -17,
+      "end": -17
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": -38,
+      "end": -36
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 14,
+      "end": 18
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 10,
+      "end": 18
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 84,
+      "end": 84
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": -11,
+      "end": -6
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": 35,
+      "end": 45
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": 44,
+      "end": 50
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": -39,
+      "end": -34
+    },
+    {
+      "op": "remove",
+      "element": 0,
+      "start": 26,
+      "end": 28
+    },
+    {
+      "op": "remove",
+      "element": 0,
+      "start": 37,
+      "end": 37
+    },
+    {
+      "op": "remove",
+      "element": 3,
+      "start": 82,
+      "end": 82
+    },
+    {
+      "op": "remove",
+      "element": 2,
+      "start": -15,
+      "end": -12
+    },
+    {
+      "op": "remove_element",
+      "element": 4
+    },
+    {
+      "op": "remove_element",
+      "element": 2
+    },
+    {
+      "op": "remove_element",
+      "element": 3
+    },
+    {
+      "op": "remove_element",
+      "element": 4
+    },
+    {
+      "op": "remove_element",
+      "element": 2
+    },
+    {
+      "op": "clear"
+    },
+    {
+      "op": "clear"
+    },
+    {
+      "op": "clear"
+    },
+    {
+      "op": "remove_ranges",
+      "start": -7,
+      "end": 59
+    }
+  ],
+  "set_ops": [
+    {
+      "id": "union_001_disjoint_elements",
+      "op": "union",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "italic": [
+            [
+              10,
+              15
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 7,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 20,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 16,
+              "kind": "close",
+              "element": "italic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "union_002_overlap_and_adjacency",
+      "op": "union",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 5,
+          "end": 15
+        },
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 16,
+          "end": 20
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              20
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 18,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 21,
+          "expected": []
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 25,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 21,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "union_003_insertion_order_tail_append",
+      "op": "union",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 1
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 4,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 11
+        },
+        {
+          "op": "insert",
+          "element": 3,
+          "start": 12,
+          "end": 13
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic",
+          "code",
+          "link:a"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              1
+            ]
+          ],
+          "italic": [
+            [
+              2,
+              3
+            ],
+            [
+              10,
+              11
+            ]
+          ],
+          "code": [
+            [
+              4,
+              5
+            ]
+          ],
+          "link:a": [
+            [
+              12,
+              13
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": [
+            "code"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": [
+            "link:a"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 16,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 2,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 2,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 4,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 4,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "code"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 12,
+              "kind": "open",
+              "element": "link:a"
+            },
+            {
+              "coordinate": 12,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 14,
+              "kind": "close",
+              "element": "link:a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "union_004_idempotent_self_union",
+      "op": "union",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": -5,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 20
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": -5,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 20
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              -5,
+              5
+            ]
+          ],
+          "italic": [
+            [
+              10,
+              20
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": -5,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 15,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -10,
+          "hi": 25,
+          "expected": [
+            {
+              "coordinate": -5,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 21,
+              "kind": "close",
+              "element": "italic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "union_005_chain_three_way",
+      "op": "union",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 20,
+          "end": 25
+        },
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 30,
+          "end": 35
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic",
+          "code",
+          "link:a"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "italic": [
+            [
+              10,
+              15
+            ],
+            [
+              20,
+              25
+            ]
+          ],
+          "code": [
+            [
+              30,
+              35
+            ],
+            [
+              40,
+              45
+            ]
+          ],
+          "link:a": [
+            [
+              50,
+              55
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 22,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 42,
+          "expected": [
+            "code"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 53,
+          "expected": [
+            "link:a"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 60,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 16,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 20,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 26,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 30,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 36,
+              "kind": "close",
+              "element": "code"
+            },
+            {
+              "coordinate": 40,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 46,
+              "kind": "close",
+              "element": "code"
+            },
+            {
+              "coordinate": 50,
+              "kind": "open",
+              "element": "link:a"
+            },
+            {
+              "coordinate": 56,
+              "kind": "close",
+              "element": "link:a"
+            }
+          ]
+        }
+      ],
+      "chain_ops": [
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 40,
+          "end": 45
+        },
+        {
+          "op": "insert",
+          "element": 3,
+          "start": 50,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "intersect_001_basic_overlap",
+      "op": "intersect",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 5,
+          "end": 15
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              5,
+              10
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 4,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 7,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 11,
+          "expected": []
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 20,
+          "expected": [
+            {
+              "coordinate": 5,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intersect_002_disjoint_pruned",
+      "op": "intersect",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 100,
+          "end": 200
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [],
+        "intervals": {}
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 150,
+          "expected": []
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 250,
+          "expected": []
+        }
+      ]
+    },
+    {
+      "id": "intersect_003_multi_segment",
+      "op": "intersect",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 10,
+          "end": 15
+        },
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 20,
+          "end": 25
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 3,
+          "end": 22
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              3,
+              5
+            ],
+            [
+              10,
+              15
+            ],
+            [
+              20,
+              22
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 4,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 21,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 23,
+          "expected": []
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 30,
+          "expected": [
+            {
+              "coordinate": 3,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 16,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 20,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 23,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intersect_004_insertion_order_dense_ord",
+      "op": "intersect",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        },
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 20,
+          "end": 25
+        },
+        {
+          "op": "insert",
+          "element": 3,
+          "start": 30,
+          "end": 35
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 21,
+          "end": 24
+        },
+        {
+          "op": "insert",
+          "element": 4,
+          "start": 100,
+          "end": 200
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "code"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "code": [
+            [
+              21,
+              24
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 22,
+          "expected": [
+            "code"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 40,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 21,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 25,
+              "kind": "close",
+              "element": "code"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intersect_005_idempotent_self",
+      "op": "intersect",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 20,
+          "end": 30
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 20,
+          "end": 30
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              10
+            ]
+          ],
+          "italic": [
+            [
+              20,
+              30
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 25,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 35,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 20,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 31,
+              "kind": "close",
+              "element": "italic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "difference_001_disjoint_elements_no_change",
+      "op": "difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 5,
+          "end": 15
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              10
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": []
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 20,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "difference_002_split_both_residuals",
+      "op": "difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              2
+            ],
+            [
+              7,
+              10
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 1,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 9,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 15,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 3,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 7,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "difference_003_multi_entry_sweep",
+      "op": "difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 10,
+          "end": 15
+        },
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 20,
+          "end": 25
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 3,
+          "end": 22
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              2
+            ],
+            [
+              23,
+              25
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 1,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 24,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 30,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 3,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 23,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 26,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "difference_004_insertion_order_with_prune",
+      "op": "difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        },
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 20,
+          "end": 25
+        },
+        {
+          "op": "insert",
+          "element": 3,
+          "start": 30,
+          "end": 35
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 9,
+          "end": 16
+        },
+        {
+          "op": "insert",
+          "element": 4,
+          "start": 100,
+          "end": 200
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "code",
+          "link:a"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "code": [
+            [
+              20,
+              25
+            ]
+          ],
+          "link:a": [
+            [
+              30,
+              35
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 22,
+          "expected": [
+            "code"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 32,
+          "expected": [
+            "link:a"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 40,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 20,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 26,
+              "kind": "close",
+              "element": "code"
+            },
+            {
+              "coordinate": 30,
+              "kind": "open",
+              "element": "link:a"
+            },
+            {
+              "coordinate": 36,
+              "kind": "close",
+              "element": "link:a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "difference_005_single_element_residuals",
+      "op": "difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              2
+            ],
+            [
+              7,
+              10
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 4,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 7,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 12,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 3,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 7,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symmetric_difference_001_both_side_residuals",
+      "op": "symmetric_difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 5,
+          "end": 15
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              4
+            ],
+            [
+              11,
+              15
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 4,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 7,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 20,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 5,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 16,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symmetric_difference_002_empty_equals_self",
+      "op": "symmetric_difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        }
+      ],
+      "other_ops": [],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "italic": [
+            [
+              10,
+              15
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 18,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 16,
+              "kind": "close",
+              "element": "italic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symmetric_difference_003_tail_append",
+      "op": "symmetric_difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 20,
+          "end": 25
+        },
+        {
+          "op": "insert",
+          "element": 3,
+          "start": 30,
+          "end": 35
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic",
+          "code",
+          "link:a"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "italic": [
+            [
+              10,
+              15
+            ]
+          ],
+          "code": [
+            [
+              20,
+              25
+            ]
+          ],
+          "link:a": [
+            [
+              30,
+              35
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 12,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 22,
+          "expected": [
+            "code"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 32,
+          "expected": [
+            "link:a"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -5,
+          "hi": 40,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 16,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 20,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 26,
+              "kind": "close",
+              "element": "code"
+            },
+            {
+              "coordinate": 30,
+              "kind": "open",
+              "element": "link:a"
+            },
+            {
+              "coordinate": 36,
+              "kind": "close",
+              "element": "link:a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symmetric_difference_004_associativity_left",
+      "op": "symmetric_difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 5,
+          "end": 15
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              4
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              16,
+              20
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 0,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 4,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 5,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 10,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 15,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 18,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 25,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 5,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 11,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 16,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 21,
+              "kind": "close",
+              "element": "strong"
+            }
+          ]
+        }
+      ],
+      "chain_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 10,
+          "end": 20
+        }
+      ]
+    },
+    {
+      "id": "symmetric_difference_005_commutativity_per_element",
+      "op": "symmetric_difference",
+      "self_ops": [
+        {
+          "op": "insert",
+          "element": 0,
+          "start": 0,
+          "end": 5
+        },
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 10,
+          "end": 15
+        }
+      ],
+      "other_ops": [
+        {
+          "op": "insert",
+          "element": 1,
+          "start": 12,
+          "end": 17
+        },
+        {
+          "op": "insert",
+          "element": 2,
+          "start": 20,
+          "end": 25
+        }
+      ],
+      "expected_state": {
+        "insertion_order": [
+          "strong",
+          "italic",
+          "code"
+        ],
+        "intervals": {
+          "strong": [
+            [
+              0,
+              5
+            ]
+          ],
+          "italic": [
+            [
+              10,
+              11
+            ],
+            [
+              16,
+              17
+            ]
+          ],
+          "code": [
+            [
+              20,
+              25
+            ]
+          ]
+        }
+      },
+      "probes": [
+        {
+          "kind": "subscript",
+          "i": 3,
+          "expected": [
+            "strong"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 11,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 13,
+          "expected": []
+        },
+        {
+          "kind": "subscript",
+          "i": 16,
+          "expected": [
+            "italic"
+          ]
+        },
+        {
+          "kind": "subscript",
+          "i": 22,
+          "expected": [
+            "code"
+          ]
+        },
+        {
+          "kind": "transitions",
+          "lo": -2,
+          "hi": 30,
+          "expected": [
+            {
+              "coordinate": 0,
+              "kind": "open",
+              "element": "strong"
+            },
+            {
+              "coordinate": 6,
+              "kind": "close",
+              "element": "strong"
+            },
+            {
+              "coordinate": 10,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 12,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 16,
+              "kind": "open",
+              "element": "italic"
+            },
+            {
+              "coordinate": 18,
+              "kind": "close",
+              "element": "italic"
+            },
+            {
+              "coordinate": 20,
+              "kind": "open",
+              "element": "code"
+            },
+            {
+              "coordinate": 26,
+              "kind": "close",
+              "element": "code"
+            }
+          ]
+        }
+      ]
     }
   ],
   "probes": [
@@ -1763,6 +4255,719 @@
           "element": "strong"
         }
       ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -40,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -37,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -34,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -31,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -28,
+      "expected": [
+        "code",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -25,
+      "expected": [
+        "code",
+        "strong",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -22,
+      "expected": [
+        "code",
+        "strong",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -19,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -16,
+      "expected": [
+        "code",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -13,
+      "expected": [
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -10,
+      "expected": [
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -7,
+      "expected": [
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -4,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": -1,
+      "expected": [
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 2,
+      "expected": [
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 5,
+      "expected": [
+        "strong",
+        "link:b",
+        "italic"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 8,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 11,
+      "expected": [
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 14,
+      "expected": [
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 17,
+      "expected": [
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 20,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 23,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 26,
+      "expected": [
+        "code",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 29,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 32,
+      "expected": [
+        "code",
+        "strong",
+        "link:b",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 35,
+      "expected": [
+        "strong",
+        "italic",
+        "link:a"
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "after_removes",
+      "i": 38,
+      "expected": [
+        "italic"
+      ]
+    },
+    {
+      "kind": "transitions",
+      "phase": "after_removes",
+      "lo": -40,
+      "hi": 40,
+      "expected": [
+        {
+          "coordinate": -30,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": -30,
+          "kind": "open",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -30,
+          "kind": "open",
+          "element": "italic"
+        },
+        {
+          "coordinate": -28,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": -26,
+          "kind": "open",
+          "element": "strong"
+        },
+        {
+          "coordinate": -25,
+          "kind": "close",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -19,
+          "kind": "open",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -17,
+          "kind": "close",
+          "element": "italic"
+        },
+        {
+          "coordinate": -16,
+          "kind": "open",
+          "element": "italic"
+        },
+        {
+          "coordinate": -16,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": -15,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": -14,
+          "kind": "close",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -5,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": -5,
+          "kind": "open",
+          "element": "strong"
+        },
+        {
+          "coordinate": -5,
+          "kind": "open",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -2,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 5,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 6,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": 9,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 10,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 19,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": 26,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": 29,
+          "kind": "open",
+          "element": "strong"
+        },
+        {
+          "coordinate": 35,
+          "kind": "close",
+          "element": "link:b"
+        },
+        {
+          "coordinate": 35,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 36,
+          "kind": "close",
+          "element": "italic"
+        },
+        {
+          "coordinate": 37,
+          "kind": "open",
+          "element": "italic"
+        },
+        {
+          "coordinate": 37,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 37,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": 39,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 40,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 40,
+          "kind": "close",
+          "element": "italic"
+        }
+      ]
+    },
+    {
+      "kind": "transitions",
+      "phase": "after_removes",
+      "lo": -50,
+      "hi": 60,
+      "expected": [
+        {
+          "coordinate": -30,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": -30,
+          "kind": "open",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -30,
+          "kind": "open",
+          "element": "italic"
+        },
+        {
+          "coordinate": -28,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": -26,
+          "kind": "open",
+          "element": "strong"
+        },
+        {
+          "coordinate": -25,
+          "kind": "close",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -19,
+          "kind": "open",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -17,
+          "kind": "close",
+          "element": "italic"
+        },
+        {
+          "coordinate": -16,
+          "kind": "open",
+          "element": "italic"
+        },
+        {
+          "coordinate": -16,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": -15,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": -14,
+          "kind": "close",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -5,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": -5,
+          "kind": "open",
+          "element": "strong"
+        },
+        {
+          "coordinate": -5,
+          "kind": "open",
+          "element": "link:b"
+        },
+        {
+          "coordinate": -2,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 5,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 6,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": 9,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 10,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 19,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": 26,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": 29,
+          "kind": "open",
+          "element": "strong"
+        },
+        {
+          "coordinate": 35,
+          "kind": "close",
+          "element": "link:b"
+        },
+        {
+          "coordinate": 35,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 36,
+          "kind": "close",
+          "element": "italic"
+        },
+        {
+          "coordinate": 37,
+          "kind": "open",
+          "element": "italic"
+        },
+        {
+          "coordinate": 37,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 37,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": 39,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 40,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 40,
+          "kind": "close",
+          "element": "italic"
+        }
+      ]
+    },
+    {
+      "kind": "transitions",
+      "phase": "after_removes",
+      "lo": 0,
+      "hi": 30,
+      "expected": [
+        {
+          "coordinate": 5,
+          "kind": "close",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 6,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": 9,
+          "kind": "open",
+          "element": "link:a"
+        },
+        {
+          "coordinate": 10,
+          "kind": "close",
+          "element": "code"
+        },
+        {
+          "coordinate": 19,
+          "kind": "open",
+          "element": "code"
+        },
+        {
+          "coordinate": 26,
+          "kind": "close",
+          "element": "strong"
+        },
+        {
+          "coordinate": 29,
+          "kind": "open",
+          "element": "strong"
+        }
+      ]
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": -30,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": -10,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": 0,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": 10,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": 25,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": 50,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": 90,
+      "expected": []
+    },
+    {
+      "kind": "subscript",
+      "phase": "final",
+      "i": 120,
+      "expected": []
+    },
+    {
+      "kind": "transitions",
+      "phase": "final",
+      "lo": -50,
+      "hi": 50,
+      "expected": []
+    },
+    {
+      "kind": "transitions",
+      "phase": "final",
+      "lo": 80,
+      "hi": 200,
+      "expected": []
     }
   ]
 }
