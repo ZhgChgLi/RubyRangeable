@@ -95,10 +95,18 @@ See [RangeableRFC](https://github.com/ZhgChgLi/RangeableRFC) § 4 for normative 
 | Brute-force baseline (m=50, L=2000) vs `Rangeable` | **~5.5× speedup** in micro-benchmark |
 | Real consumer ([ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)) | **2.23× end-to-end speedup**, 55% render-time reduction; all 306 existing tests byte-identical |
 
+## Cross-language consistency
+
+This Ruby implementation joins the [Swift](https://github.com/ZhgChgLi/SwiftRangeable), [Python](https://github.com/ZhgChgLi/PythonRangeable), [JS](https://github.com/ZhgChgLi/JSRangeable), [Kotlin](https://github.com/ZhgChgLi/KotlinRangeable) and [Go](https://github.com/ZhgChgLi/GoRangeable) implementations. All six share a 160-op / 86-probe JSON fixture and produce byte-identical outputs.
+
 ## See also
 
 - **[RangeableRFC](https://github.com/ZhgChgLi/RangeableRFC)** — the normative specification this gem implements.
-- **[SwiftRangeable](https://github.com/ZhgChgLi/SwiftRangeable)** — sibling reference implementation in Swift; produces byte-identical outputs against a shared cross-language fixture.
+- **[SwiftRangeable](https://github.com/ZhgChgLi/SwiftRangeable)** — Swift reference (SPM).
+- **[PythonRangeable](https://github.com/ZhgChgLi/PythonRangeable)** — Python reference (`pip install rangeable`).
+- **[JSRangeable](https://github.com/ZhgChgLi/JSRangeable)** — TypeScript reference (`npm i rangeable-js`).
+- **[KotlinRangeable](https://github.com/ZhgChgLi/KotlinRangeable)** — Kotlin/JVM reference (JitPack).
+- **[GoRangeable](https://github.com/ZhgChgLi/GoRangeable)** — Go reference (`go get github.com/ZhgChgLi/GoRangeable`).
 - **[ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)** — real-world consumer that exercises this gem on Medium GraphQL renderers.
 
 ## Development
